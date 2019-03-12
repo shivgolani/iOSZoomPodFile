@@ -1,0 +1,6 @@
+use_frameworks!
+target 'iOSZoomPodFile_Tests' do
+  pod 'iOSZoomPodFile', :path => '../'
+  
+  
+end
